@@ -1,0 +1,90 @@
+.App {
+  margin-top: 20px;
+  text-align: justify;
+  font-family: "Gill Sans", "Gill Sans MT", " sans-serif";
+  color: rgb(14, 89, 89);
+}
+
+.time {
+  float: right;
+}
+
+.container {
+  /* box-shadow: 2cm; */
+  border: 4px solid rgb(0, 201, 201);
+  border-radius: 20px;
+  width: 700px;
+  height: 440px;
+  padding: 19px;
+  background-color: azure;
+  box-shadow: 8px 6px 5px lightblue;
+  margin-left: 300px;
+  margin-top: 30px;
+}
+
+img {
+  margin-top: 20px;
+  height: 100px;
+  width: 100px;
+}
+
+div.feellike {
+  font-weight: normal;
+  float: right;
+  border: 3px solid rgb(31, 247, 46);
+}
+div.climate {
+  font-weight: bold;
+  float: right;
+  border: 3px solid rgb(31, 247, 46);
+}
+
+.styleinput {
+  font-size: 15px;
+  text-align: center;
+  margin-top: 50px;
+  border: 4px solid rgb(6, 204, 218);
+  padding: 20px;
+  height: 70px;
+  width: 300px;
+  display: flex;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+
+.stylecityname {
+  font-size: 17px;
+  font-weight: bold;
+  color: crimson;
+}
+
+.card-detail {
+  width: 100%;
+  border: 4px solid darkorange;
+}
+
+.image-temp {
+  height: 200px;
+  width: 42%;
+  border: 4px solid olivedrab;
+}
+.detailsweather {
+  width: 50%;
+  border: 3px solid red;
+  float: left;
+}
+
+.bigAndBold {
+  font-size: 90px;
+  font-weight: bold;
+  /* color: rgb(0, 0, 163); */
+  color: rgb(14, 89, 89);
+}
+
+.celsius {
+  font-size: 30px;
+  font-weight: lighter;
+  color: rgb(139, 138, 138);
+  font-family: "Franklin Gothic Medium";
+}
